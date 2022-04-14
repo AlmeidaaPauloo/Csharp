@@ -1,0 +1,5 @@
+E:\Generetion\Aula de VS\AulaVS10\Animais\AulaVS10\obj\Debug\net5.0\AulaVS10.csproj.AssemblyReference.cache
+E:\Generetion\Aula de VS\AulaVS10\Animais\AulaVS10\obj\Debug\net5.0\AulaVS10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generetion\Aula de VS\AulaVS10\Animais\AulaVS10\obj\Debug\net5.0\AulaVS10.AssemblyInfoInputs.cache
+E:\Generetion\Aula de VS\AulaVS10\Animais\AulaVS10\obj\Debug\net5.0\AulaVS10.AssemblyInfo.cs
+E:\Generetion\Aula de VS\AulaVS10\Animais\AulaVS10\obj\Debug\net5.0\AulaVS10.csproj.CoreCompileInputs.cache

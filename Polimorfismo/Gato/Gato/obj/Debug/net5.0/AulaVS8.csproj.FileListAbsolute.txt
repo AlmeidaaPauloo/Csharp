@@ -1,0 +1,16 @@
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\bin\Debug\net5.0\AulaVS8.exe
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\bin\Debug\net5.0\AulaVS8.deps.json
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\bin\Debug\net5.0\AulaVS8.runtimeconfig.json
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\bin\Debug\net5.0\AulaVS8.runtimeconfig.dev.json
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\bin\Debug\net5.0\AulaVS8.dll
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\bin\Debug\net5.0\AulaVS8.pdb
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\AulaVS8.csproj.AssemblyReference.cache
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\AulaVS8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\AulaVS8.AssemblyInfoInputs.cache
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\AulaVS8.AssemblyInfo.cs
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\AulaVS8.csproj.CoreCompileInputs.cache
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\AulaVS8.dll
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\refint\AulaVS8.dll
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\AulaVS8.pdb
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\AulaVS8.genruntimeconfig.cache
+E:\Generetion\Aula de VS\Classe e Objeto\Gato\Gato\obj\Debug\net5.0\ref\AulaVS8.dll

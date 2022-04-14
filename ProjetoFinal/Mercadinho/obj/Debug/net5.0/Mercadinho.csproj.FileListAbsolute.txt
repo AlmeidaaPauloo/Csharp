@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\bin\Debug\net5.0\Mercadinho.exe
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\bin\Debug\net5.0\Mercadinho.deps.json
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\bin\Debug\net5.0\Mercadinho.runtimeconfig.json
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\bin\Debug\net5.0\Mercadinho.runtimeconfig.dev.json
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\bin\Debug\net5.0\Mercadinho.dll
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\bin\Debug\net5.0\Mercadinho.pdb
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\Mercadinho.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\Mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\Mercadinho.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\Mercadinho.AssemblyInfo.cs
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\Mercadinho.dll
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\refint\Mercadinho.dll
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\Mercadinho.pdb
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\Mercadinho.genruntimeconfig.cache
+C:\Users\erick\Desktop\gen\exercicios\ProjetoFinal\Mercadinho\obj\Debug\net5.0\ref\Mercadinho.dll

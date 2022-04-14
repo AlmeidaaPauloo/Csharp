@@ -1,0 +1,5 @@
+E:\Generetion\Aula de VS\Aula de VS2\Fazendo um imc\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Generetion\Aula de VS\Aula de VS2\Fazendo um imc\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generetion\Aula de VS\Aula de VS2\Fazendo um imc\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Generetion\Aula de VS\Aula de VS2\Fazendo um imc\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+E:\Generetion\Aula de VS\Aula de VS2\Fazendo um imc\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache

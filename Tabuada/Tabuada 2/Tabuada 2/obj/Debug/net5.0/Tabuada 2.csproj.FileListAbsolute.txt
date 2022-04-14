@@ -1,0 +1,16 @@
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\Tabuada 2.csproj.AssemblyReference.cache
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\Tabuada 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\Tabuada 2.AssemblyInfoInputs.cache
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\Tabuada 2.AssemblyInfo.cs
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\Tabuada 2.csproj.CoreCompileInputs.cache
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\bin\Debug\net5.0\Tabuada 2.exe
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\bin\Debug\net5.0\Tabuada 2.deps.json
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\bin\Debug\net5.0\Tabuada 2.runtimeconfig.json
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\bin\Debug\net5.0\Tabuada 2.runtimeconfig.dev.json
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\bin\Debug\net5.0\Tabuada 2.dll
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\bin\Debug\net5.0\Tabuada 2.pdb
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\Tabuada 2.dll
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\refint\Tabuada 2.dll
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\Tabuada 2.pdb
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\Tabuada 2.genruntimeconfig.cache
+E:\Generetion\Aula de VS\Tabuada\Tabuada 2\Tabuada 2\obj\Debug\net5.0\ref\Tabuada 2.dll
